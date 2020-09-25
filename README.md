@@ -1,1 +1,1 @@
-# OSD_Release_0.1
+# OSD600
